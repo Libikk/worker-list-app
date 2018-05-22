@@ -1,0 +1,85 @@
+.app-container {
+    background: url('images/symphony.png');
+    height: 100%;
+    height: -webkit-fill-available;
+    overflow: hidden;
+}
+.perPage { 
+    display: inline-block;
+    font-size: 25px;
+ }
+
+.perPage li {
+    display: inline-block;
+    padding: 5px;
+    font-weight: 900;
+    font-size: 22px;
+    position: relative;
+    text-decoration: none;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    margin: 30px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) { background-color: #dddddd;}
+tr:first-child { background-color: orange;
+}
+tr th:hover { 
+    cursor: pointer;
+    background-color: rgb(170, 112, 4)
+}
+
+.pages {
+    display: inline-block; 
+    font-size: 25px;
+}
+.pages li {
+    display: inline-block;
+    padding: 5px;
+    font-weight: 900;
+    font-size: 24px;
+    position: relative;
+    text-decoration: none;
+}
+.fa-minus-circle { color:red; }
+.fa-edit { color:#806700; }
+.fa-plus-square { color: green; }
+.action { text-align: center; }
+
+.footer {
+    background-color: black;
+    width: 100%;
+    position:absolute;
+    bottom:0;
+    height: 5%;
+    text-align: center;
+    opacity: 0.35;
+    color: blanchedalmond;
+    font-size: 20px;
+    line-height: 50px; 
+}
+.header {
+    width: 100%;
+    height: 90px;
+    text-align: center;
+    background: linear-gradient(to right, #959595 0%,#0d0d0d 35%,#0a0a0a 50%,#010101 50%,#4e4e4e 80%,#383838 87%,#1b1b1b 100%);
+    color: white;
+    opacity: 0.45;
+    line-height: 80px;
+    letter-spacing: 1px;
+    color: orange;
+}
+
+.header-word {
+    font-weight: 600;
+    font-size: 45px;
+}
