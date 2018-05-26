@@ -1,7 +1,7 @@
 ###Worker-list###
 table app
 
-<a href="https://ibb.co/dV8TAo"><img src="https://thumb.ibb.co/dV8TAo/workerlist.jpg" alt="workerlist" border="0"></a>
+<a href="https://ibb.co/dV8TAo"><img src="https://preview.ibb.co/c5GtbT/workerlist.jpg" alt="workerlist" border="0"></a>
 
 * edit / add / delete entries
 * pagination
