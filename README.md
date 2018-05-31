@@ -1,4 +1,4 @@
-###Worker-list###
+### Worker-list ###
 table app
 
 <a href="https://ibb.co/dV8TAo"><img src="https://preview.ibb.co/c5GtbT/workerlist.jpg" alt="workerlist" border="0"></a>
@@ -8,7 +8,7 @@ table app
 * sorting (asc/desc)
 * items per page 
 
-##Built with react + redux + webpack ##
+## Built with react + redux + webpack ##
 
 **Demo** is not available yet
 
